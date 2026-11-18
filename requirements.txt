@@ -1,9 +1,8 @@
 grad-cam
-numpy
 matplotlib
+numpy
 Pillow
-opencv-python
 tqdm
 scikit-learn
-ipywidgets
 jupyter
+ipykernel
