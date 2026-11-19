@@ -1,2 +1,5 @@
-# Grad_Cam
-Workshop repository for Grad_cam  also called Gradient-weighted Class Activation Mapping) is a technique used to visualize  and understand how CNNs (Convolutional Neural Networks) make predictions. It produces heatmaps overlaid on an input image to pin point the exact regions or pixels the models relied on to make its decision.
+# Explaining image predictions with Grad-Cam
+
+In this workshop, you'll build Grad-CAM yourself in about 10 lines of PyTorch, check it against the [`pytorch-grad-cam`](https://github.com/jacobgil/pytorch-grad-cam) library, and test whether a heatmap really means what it seems to
+
+
